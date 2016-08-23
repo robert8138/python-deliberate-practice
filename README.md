@@ -62,7 +62,11 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 
 * **Pandas For Data Analysis**
 
+    * [dplyr/pandas vignette comparison]
+
     * [Data School Tutorials]
+
+    * [Tom Augspurgur: Pandas]
 
     * Introduction to Numpy
         * creating ndarray, data type of ndarray
@@ -110,6 +114,8 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 * [Harvard CS 109: Data Science]
 * [Writing Idiomatic Python - Jeff Knupp]
 * [Another tutorial on how to write pythonic code]
+* [Pandas Cookbook]
+* [Udemy course]
 
 
 [language war]:http://www.dataschool.io/python-or-r-for-data-science/
@@ -121,7 +127,9 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
 [What generators are for]:http://simeonfranklin.com/blog/2012/may/22/what-generators-are-for/
 
+[dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 [Data School Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
+[Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
@@ -130,3 +138,5 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Harvard CS 109: Data Science]:http://cs109.github.io/2015/
 [Writing Idiomatic Python - Jeff Knupp]:http://share.sm3.su/writing_idiomatic_python_3.pdf
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
+[Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
+[Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
