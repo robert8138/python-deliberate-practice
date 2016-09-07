@@ -58,16 +58,12 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
     * iPython basics: keyboard shortcut
     * Using the command history
     * Interacting with the OS
-    * 
 
 * **Pandas For Data Analysis**
-
+    * [Brandon Rhode's Pandas From The Groud Up]: good explanation on index; (row) set_index, sort_index; (column) stack, unstack
     * [dplyr/pandas vignette comparison]
-
     * [Data School Tutorials]
-
     * [Tom Augspurgur: Pandas]
-
     * Introduction to Numpy
         * creating ndarray, data type of ndarray
         * indexing and slicing: basic, boolean, fancy
@@ -127,6 +123,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
 [What generators are for]:http://simeonfranklin.com/blog/2012/may/22/what-generators-are-for/
 
+[Brandon Rhode's Pandas From The Groud Up]:https://www.youtube.com/watch?v=5JnMutdy6Fw
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 [Data School Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
