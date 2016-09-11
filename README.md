@@ -62,7 +62,8 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 * **Pandas For Data Analysis**
     * [Brandon Rhode's Pandas From The Groud Up]: good explanation on index; (row) set_index, sort_index; (column) stack, unstack
     * [dplyr/pandas vignette comparison]
-    * [Data School Tutorials]
+    * [Data School Pandas Tutorials]
+        * [Data School Pandas Github iPython notebook]
     * [Tom Augspurgur: Pandas]
     * Introduction to Numpy
         * creating ndarray, data type of ndarray
@@ -128,6 +129,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Brandon Rhode's Pandas From The Groud Up]:https://www.youtube.com/watch?v=5JnMutdy6Fw
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 [Data School Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
+[Data School Pandas Github iPython notebook]:https://github.com/justmarkham/pandas-videos
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
