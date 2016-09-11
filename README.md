@@ -54,8 +54,8 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 
 * **iPython Notebook**
     
-    * (?) Just start writing all your practices as iPython notebooks
-    * iPython basics: keyboard shortcut
+    * Just start writing all your practices as iPython notebooks
+    * [iPython Notebook Keybinding]
     * Using the command history
     * Interacting with the OS
 
@@ -118,6 +118,8 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [advanced R materials]:http://adv-r.had.co.nz/
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
 [data stacks]:https://lab.getbase.com/productive-data-science-python/
+
+[iPython Notebook Keybinding]:https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf
 
 [Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
