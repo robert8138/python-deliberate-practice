@@ -98,7 +98,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 
 * **(Optional)** 
     
-    * Scikit Learn Machine Learning Library
+    * [Scikit-learn Machine Learning Library]
     * Writing ETL Jobs 
 
 
@@ -131,6 +131,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Data School Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
 [Data School Pandas Github iPython notebook]:https://github.com/justmarkham/pandas-videos
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
+[Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
