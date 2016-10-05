@@ -80,11 +80,10 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 
 * **Matplotlib For Data Visualization**
 
-    * Figures and Subplots
-    * Colors, markers, and line styles
-    * Tick, labels, and legends
-    * Annotation and drawing on a subplot
-    * line plots, bar plots, histogram, density, and scatterplot
+    * [BIDS Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
+    * [Seaborn]: Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
+    * [Bokeh]: Interactive, web browser base data visualization
+    * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
 
 * **Writing Functional Programming Python Code**
     
@@ -109,6 +108,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 * [Stanford CS 41: Python]
 * [Berkeley CS 88: Python Data Structure]
 * [Harvard CS 109: Data Science]
+* [Berkeley BIDS Python bootcamp]
 * [Writing Idiomatic Python - Jeff Knupp]
 * [Another tutorial on how to write pythonic code]
 * [Pandas Cookbook]
@@ -133,11 +133,17 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
 
+[BIDS Intro to Matplotlib]:https://www.youtube.com/watch?v=j5P822TSCKs
+[Seaborn]:https://stanford.edu/~mwaskom/software/seaborn/
+[Bokeh]:http://bokeh.pydata.org/en/latest/
+[A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]:https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
+
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
 [Stanford CS 41: Python]:http://stanfordpython.com/
 [Berkeley CS 88: Python Data Structure]:http://cs88-website.github.io/
 [Harvard CS 109: Data Science]:http://cs109.github.io/2015/
+[Berkeley BIDS Python bootcamp]:https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
 [Writing Idiomatic Python - Jeff Knupp]:http://share.sm3.su/writing_idiomatic_python_3.pdf
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
