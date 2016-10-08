@@ -1,5 +1,30 @@
-TODO:
+## What Software Engineering Principle Do You Want To Learn Through Python?
 
-# What do you want to learn about python software engineering principle?
-# Estimate Time Required To Achieve Goal
-# Break Down Work into a Week-By-Week Schedule
+* [Software Development Skills For Data Scientists]
+    
+    * Writing modular, reusable code
+    * Documenting / Commenting
+    * Version Control - Git
+    * Testing
+    * Logging
+
+## Estimate Time Required To Achieve Goal
+
+I will give myself the whole 2016-Q4 to work on this goal. It seems like a long time, but effectively, I have only 8 weeks left (as of 2016-10-08) because of Open, Thanksgiving, and Christmas. 
+
+**Timeframe**: Efficiency parity by end of October. One contribution to Airpy by Mid November. One ongoing big project touching different stacks in Python by the end of 2016.
+
+## Break Down Work Into A Week-by-week Schedule
+
+* **Week of 8/8 - 8/14**: Start watching Stanford CS 41
+* **Week of 8/15 - 8/20**: Finished Stanford CS 41 + started Data School Pandas videos
+* **Week of 8/21 - 8/28**: Detour to watch Tom Augspurgur's Pydata video
+* **Week of 8/29 - 9/4**: Birthday week
+* **Week of 9/5 - 9/11**: Start reading Idiomatic Python + Finished Data School Pandas videos series
+* **Week of 9/12 - 9/18**: Start reading "Python Data Analysis" by Wes Mckinney
+* **Week of 9/19 - 9/25**: Start practicing Python on the job (calculating cohort size from lead ranking)
+* **Week of 9/26 - 10/2**: Continue to practice Python on the job (variable transformation model) + Data School Machine Learning videos. This is one of the best examples of learning on the job with Python.
+* **Week of 10/3 - 10/9**: Built a simple data visualization of demand index using Python's Bokeh library + Finished Data School ML videos
+
+
+[Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html

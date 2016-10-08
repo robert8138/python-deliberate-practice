@@ -29,19 +29,20 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Immediate Feedbacks**: We have a culture of code reviews, both for IC work as well as internal package work. The former is harder because most DS on our team are in the R camp. There's also the weekly Python office hours that should be very useful. Find constant opportunities to get feedback as much as you can.
 
-## Performance Goal
+## Performance Goals
 
-* Learn to write pythonic code
-* Achieve efficiency and feature parity on Data Analysis using Python compared to R (longer term less important, but easier to practice)
-* Being able to apply good software engineering principle on my data work: write re-usable, modular, tested code (longer term more important, but harder to practice)
+* **[Immediate]** Learn to write pythonic code
+* **[Shorter term, easiest to practice]** Write re-usable, modular, tested code for my data work and knowledge posts
+* **[Medium term, harder to practice]** Achieve efficiency and feature parity on Data Analysis using Python compared to R
+* **[Longer term, hardest to practice]** Write tools. Being able to work on projects that span the entire data stack using Python, apply good software engineering principles to these projects
 
-## Project Goal
+## Project Goals
 
-* Outcome: By the end of Q4, I want to move my data stack to Python completely. This means my day-to-day data analysis work will be done in Python instead of R, make my code as pythonic as possible.
+* **Outcome**: I want to move my data stack to Python completely. This means my day-to-day data analysis work will be done in Python instead of R, make my code as pythonic as possible. Become a Contributor to Airpy / tools, and take on one bigger Python project (ML, Data Viz ...etc).
 
-* Curriculum: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib combo. Expose yourself to functional programming, OOP, testing in Python, or even make tools.
+* **Curriculum**: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib combo. Expose yourself to functional programming, OOP, testing in Python, or even make tools. Get feedbacks from Airpy team members.
 
-* Timeframe: Efficiency parity by end of October, One ongoing bigger Python projects by the end of the year (could be Airpy, could be a data visualization project, or a ML project).
+* **Timeframe**: Efficiency parity by end of October. One contribution to Airpy by Mid November. One ongoing big project touching different stacks in Python by the end of 2016.
 
 ## Project Milestones
 
@@ -71,6 +72,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [dplyr/pandas vignette comparison]
     * [Data School Pandas Tutorials]
         * [Data School Pandas Github iPython notebook]
+        * [Other resources]
     * [Tom Augspurgur: Pandas]
 
     * Introduction to Numpy
@@ -122,13 +124,11 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * [Berkeley CS 88: Python Data Structure]
 * [Harvard CS 109: Data Science]
 * [Berkeley BIDS Python bootcamp]
+* [Python Computing For Data Science]
 * [Writing Idiomatic Python - Jeff Knupp]
 * [Another tutorial on how to write pythonic code]
 * [Pandas Cookbook]
 * [Udemy course]
-* [Testing]
-* [Automation And Make]
-
 
 [Language war]:http://www.dataschool.io/python-or-r-for-data-science/
 [advanced R materials]:http://adv-r.had.co.nz/
@@ -145,6 +145,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 [Data School Pandas Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
 [Data School Pandas Github iPython notebook]:https://github.com/justmarkham/pandas-videos
+[Other resources]:http://www.dataschool.io/best-python-pandas-resources/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
 
@@ -159,6 +160,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Berkeley CS 88: Python Data Structure]:http://cs88-website.github.io/
 [Harvard CS 109: Data Science]:http://cs109.github.io/2015/
 [Berkeley BIDS Python bootcamp]:https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
+[Python Computing For Data Science]:http://profjsb.github.io/python-seminar/
 [Writing Idiomatic Python - Jeff Knupp]:http://share.sm3.su/writing_idiomatic_python_3.pdf
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
