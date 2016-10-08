@@ -1,41 +1,47 @@
 # Python Deliberate Practice
 
-## Introduction
+## Motivation
 
-There has always been a [language war] between Python and R among the Data Scientist, and there doesn't seem to be a consensus on which one is better in the near future. Personally, I used both R and Python, but for very different purposes. I mainly use Hadleyverse (dplyr + ggplot2) packages in R to carry out data analysis and data visualization, while using Python for web scraping, automating small tasks, and building [basic web applications in Flask]. 
+[Language war] between Python and R is one of the most frequently discussed topics among the Data Scientist, and there doesn't seem to be a consensus on which one is better. Personally, I used both R and Python, but for very different purposes. I mainly use tidyverse packages (dplyr + ggplot2) to carry out data analyses and data visualization, while using Python for web scraping, task automations, and building [basic web applications in Flask]. 
 
-By now, I have a pretty good working knowledge of the R language. There are obviously many more things that I can - in particular building and maintaining R packages as well as more [advanced R materials]. Yet, my tastes for learning is usually insatiable (not necessarily a good thing) and the appeal of Python has always been there, for a few reasons: 
+By now, I have a pretty good working knowledge of the R language. There are obviously many more things that I can learn - in particular building and maintaining R packages as well as more [advanced R materials]. Yet, the appeal of Python has always been there for me for a few reasons: 
 
-* It's a general purpose programming language. There are a lot of good programming and software engineering lessons to be learned that are applicable (which might not be true for R since it's a specialized language)
-* Many of the [data stacks] are built using Python (ETL using Airflow, Front-end using Flask, RESTful API supports), being able to use the same language as the rest of the stack means that you are one step closer to production code.
+* It's a general purpose programming language, so presumably it is a lot easier to learn good software engineering principles. (What are they though?)
+* Many of the [data stacks] are built using the tools in the Python ecosystem (ETL using Airflow, Front-end using Flask with RESTful API supports, Machine Learning using scikit-learn) - being able to use the same language for different parts of the data stack will bring prototypes closer to production.
 
 To me, the appeal of Python is not necessarily the Data Analysis part, R is already doing a great job on this. Rather, the appeal of using Python for data work is that you have a higher chance to see how data plays a role within the whole integrated technology stack. Knowing Python is likely to make me a better **end-to-end** Data Scientist and better Software Engineer.
 
 ## Deliberate Practice
 
-I am a huge believer in learning by doing, and I see there are a lot of opportunities on the job where I can hone my Python skills through Deliberate Practice:
+I am a huge believer in learning by doing, and there are a lot of opportunities on the job where I can hone my Python skills through Deliberate Practice:
 
-* **Identify the Top Performers**: I think there are quite a few people at Work (e.g. Dan F.) who can really be a role model for me to follow.
+* **Identify the Top Performers**: I think there are quite a few people at Work (e.g. Dan F.) who can really be a role model for me to follow. Understand what they've been through to get to where they are today. What is their mental representation that I do not have about Python.
 
-* **Build Practice Plans**: Understand what they've been through to get to where they are today. What is their mental representation when starting out a project. What are the specific tasks, skills, and techniques that I should master. Augment these insights with your current mental representation of Python.
+* **Build Practice Plans**: Ideally, based on the rough understanding of that mental representation:
 
-* **Targeted Practice**: If I force myself to switch over to Python for Data Analysis, or contribute to our internal Python Data Analysis packages, there could be many opportunities to practice this.
+    * Define clear goals and select learning materials
+    * Create deadline and milestones for the project
+    * Estimate time required and come up weekly schedules
 
-* **Immediate Feedbacks**: We have a culture of code reviews, both for IC work as well as internal package work. The former is harder because most DS on our team are in the R camp. There's also the weekly Python office hours that should be very useful.
+  Augment these insights with your current level of mental representation of Python to improve your understanding.
 
-## Project Goal
+* **Targeted Practice**: If I force myself to switch over to Python for Data Analysis, Data visualization, Modeling, or contribute to our internal Python Data Analysis packages, I can maximize my time practicing this skill, which is high leverage.
 
-* Find Mentors who can share with me their mental representation of Python
-* Devise a practice project plan (<-this) and figure out the skills to build along the way
-* Find constant opportunities to practice Python
-* Get immediate feedbacks on the job
+* **Immediate Feedbacks**: We have a culture of code reviews, both for IC work as well as internal package work. The former is harder because most DS on our team are in the R camp. There's also the weekly Python office hours that should be very useful. Find constant opportunities to get feedback as much as you can.
 
 ## Performance Goal
 
-* Write Pythonic code that other people can understand
-* Achieve efficiency parity in Data Analysis and Data Visualization using R v.s. Python
-* Pick up good programming or engineering best practice from this
-* Write Python Packages (?)
+* Learn to write pythonic code
+* Achieve efficiency and feature parity on Data Analysis using Python compared to R (longer term less important, but easier to practice)
+* Being able to apply good software engineering principle on my data work: write re-usable, modular, tested code (longer term more important, but harder to practice)
+
+## Project Goal
+
+* Outcome: By the end of Q4, I want to move my data stack to Python completely. This means my day-to-day data analysis work will be done in Python instead of R, make my code as pythonic as possible.
+
+* Curriculum: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib combo. Expose yourself to functional programming, OOP, testing in Python, or even make tools.
+
+* Timeframe: Efficiency parity by end of October, One ongoing bigger Python projects by the end of the year (could be Airpy, could be a data visualization project, or a ML project).
 
 ## Project Milestones
 
@@ -60,11 +66,13 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
     * Interacting with the OS
 
 * **Pandas For Data Analysis**
+
     * [Brandon Rhode's Pandas From The Groud Up]: good explanation on index; (row) set_index, sort_index; (column) stack, unstack
     * [dplyr/pandas vignette comparison]
     * [Data School Pandas Tutorials]
         * [Data School Pandas Github iPython notebook]
     * [Tom Augspurgur: Pandas]
+
     * Introduction to Numpy
         * creating ndarray, data type of ndarray
         * indexing and slicing: basic, boolean, fancy
@@ -91,14 +99,19 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
     * [What generators are for]
     * [Nate Batchelder: Loop like a native]
 
-* **Writing Object Oriented Python Code**
+* **Writing Object Oriented Programming Python Code**
     
     * Simeon Franklin's Twitter University Class
 
-* **(Optional)** 
+* **Other Parts Of Python Data Stacks** 
     
     * [Scikit-learn Machine Learning Library]
-    * Writing ETL Jobs 
+    * Writing ETL Jobs
+
+* More Software Engineering Principles
+    
+    * [Testing]
+    * [Automation And Make]
 
 
 ## Reference
@@ -113,9 +126,11 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 * [Another tutorial on how to write pythonic code]
 * [Pandas Cookbook]
 * [Udemy course]
+* [Testing]
+* [Automation And Make]
 
 
-[language war]:http://www.dataschool.io/python-or-r-for-data-science/
+[Language war]:http://www.dataschool.io/python-or-r-for-data-science/
 [advanced R materials]:http://adv-r.had.co.nz/
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
 [data stacks]:https://lab.getbase.com/productive-data-science-python/
@@ -128,7 +143,7 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 
 [Brandon Rhode's Pandas From The Groud Up]:https://www.youtube.com/watch?v=5JnMutdy6Fw
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
-[Data School Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
+[Data School Pandas Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
 [Data School Pandas Github iPython notebook]:https://github.com/justmarkham/pandas-videos
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
@@ -148,3 +163,6 @@ I am a huge believer in learning by doing, and I see there are a lot of opportun
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
+
+[Testing]:http://katyhuff.github.io/python-testing/
+[Automation And Make]:http://swcarpentry.github.io/make-novice/
