@@ -25,6 +25,9 @@ I will give myself the whole 2016-Q4 to work on this goal. It seems like a long 
 * **Week of 9/19 - 9/25**: Start practicing Python on the job (calculating cohort size from lead ranking)
 * **Week of 9/26 - 10/2**: Continue to practice Python on the job (variable transformation model) + Data School Machine Learning videos. This is one of the best examples of learning on the job with Python.
 * **Week of 10/3 - 10/9**: Built a simple data visualization of demand index using Python's Bokeh library + Finished Data School ML videos
+* **Week of 10/10 - 10/16**: Continue to play with Bokeh, made slider (interactivity) worked, and made animation of world demand viz worked. A bit reading on command line in Python
+* **Week of 10/17 - 10/23**: Practice with writing a simple Python parser for excel to get event annotation. Made timeseries and interactivity worked. Started reading Python OOP articles
+* **Week of 10/24 - 10/30**: Simeon Franklin's OOP class - first part
 
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html

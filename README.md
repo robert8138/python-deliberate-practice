@@ -46,6 +46,10 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 ## Project Milestones
 
+* Learning Python & Best Practices
+    * [Plateau of Productivity]
+    * [Columbia Data Scientist Style Guide]
+
 * **[Build On Top of the Basics]: Writing Pythonic Code**
 
     * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
@@ -103,6 +107,8 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Writing Object Oriented Programming Python Code**
     
+    * [Objected Oriented Programming For Scientist]
+    * [Jeff Knupp's OOP Post]
     * Simeon Franklin's Twitter University Class
 
 * **Other Parts Of Python Data Stacks** 
@@ -113,6 +119,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * More Software Engineering Principles
     
     * [Testing]
+    * [Testing For Scientist]
     * [Automation And Make]
 
 
@@ -135,6 +142,9 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
 [data stacks]:https://lab.getbase.com/productive-data-science-python/
 
+[Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
+[Columbia Data Scientist Style Guide]:http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
+
 [iPython Notebook Keybinding]:https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf
 
 [Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
@@ -154,6 +164,9 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Bokeh]:http://bokeh.pydata.org/en/latest/
 [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]:https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
+[Objected Oriented Programming For Scientist]:http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/
+[Jeff Knupp's OOP Post]:https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
 [Stanford CS 41: Python]:http://stanfordpython.com/
@@ -167,4 +180,5 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
 
 [Testing]:http://katyhuff.github.io/python-testing/
+[Testing For Scientist]:http://tjelvarolsson.com/blog/test-driven-develpment-for-scientists/
 [Automation And Make]:http://swcarpentry.github.io/make-novice/
