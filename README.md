@@ -46,7 +46,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 ## Project Milestones
 
-* Learning Python & Best Practices
+* **Learning Python & Best Practices**
     * [Plateau of Productivity]
     * [Columbia Data Scientist Style Guide]
 
@@ -76,6 +76,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [dplyr/pandas vignette comparison]
     * [Data School Pandas Tutorials]
         * [Data School Pandas Github iPython notebook]
+        * [More Pandas Questions Answered]
         * [Other resources]
     * [Tom Augspurgur: Pandas]
 
@@ -99,17 +100,18 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [Bokeh]: Interactive, web browser base data visualization
     * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
 
+* **Writing Object Oriented Programming Python Code**
+    
+    * [Jeff Knupp's OOP Post]
+    * Simeon Franklin's Twitter University Class
+    * [Objected Oriented Programming For Scientist]
+    * [BIDS Python Bootcamp OOP section]
+
 * **Writing Functional Programming Python Code**
     
     * Simeon Franklin's Twitter University Class
     * [What generators are for]
     * [Nate Batchelder: Loop like a native]
-
-* **Writing Object Oriented Programming Python Code**
-    
-    * [Objected Oriented Programming For Scientist]
-    * [Jeff Knupp's OOP Post]
-    * Simeon Franklin's Twitter University Class
 
 * **Other Parts Of Python Data Stacks** 
     
@@ -155,6 +157,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
 [Data School Pandas Tutorials]:http://www.dataschool.io/easier-data-analysis-with-pandas/
 [Data School Pandas Github iPython notebook]:https://github.com/justmarkham/pandas-videos
+[More Pandas Questions Answered]:https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31
 [Other resources]:http://www.dataschool.io/best-python-pandas-resources/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
@@ -166,6 +169,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 [Objected Oriented Programming For Scientist]:http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/
 [Jeff Knupp's OOP Post]:https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+[BIDS Python Bootcamp OOP section]:https://www.youtube.com/watch?v=HQ0q6oMpOEs
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
