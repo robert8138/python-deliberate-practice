@@ -79,6 +79,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
         * [More Pandas Questions Answered]
         * [Other resources]
     * [Tom Augspurgur: Pandas]
+    * [Coursera: Introduction to Data Science in Python]: This course is basically about Pandas
 
     * Introduction to Numpy
         * creating ndarray, data type of ndarray
@@ -138,6 +139,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * [Another tutorial on how to write pythonic code]
 * [Pandas Cookbook]
 * [Udemy course]
+* [Chris Albon's notes]
 
 [Language war]:http://www.dataschool.io/python-or-r-for-data-science/
 [advanced R materials]:http://adv-r.had.co.nz/
@@ -160,6 +162,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [More Pandas Questions Answered]:https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31
 [Other resources]:http://www.dataschool.io/best-python-pandas-resources/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
+[Coursera: Introduction to Data Science in Python]:https://www.coursera.org/learn/python-data-analysis/home/welcome
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
 
 [BIDS Intro to Matplotlib]:https://www.youtube.com/watch?v=j5P822TSCKs
@@ -170,6 +173,10 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Objected Oriented Programming For Scientist]:http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/
 [Jeff Knupp's OOP Post]:https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 [BIDS Python Bootcamp OOP section]:https://www.youtube.com/watch?v=HQ0q6oMpOEs
+
+[Testing]:http://katyhuff.github.io/python-testing/
+[Testing For Scientist]:http://tjelvarolsson.com/blog/test-driven-develpment-for-scientists/
+[Automation And Make]:http://swcarpentry.github.io/make-novice/
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
@@ -182,7 +189,4 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
-
-[Testing]:http://katyhuff.github.io/python-testing/
-[Testing For Scientist]:http://tjelvarolsson.com/blog/test-driven-develpment-for-scientists/
-[Automation And Make]:http://swcarpentry.github.io/make-novice/
+[Chris Albon's notes]:http://chrisalbon.com/

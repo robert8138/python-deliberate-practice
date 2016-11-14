@@ -28,6 +28,7 @@ I will give myself the whole 2016-Q4 to work on this goal. It seems like a long 
 * **Week of 10/10 - 10/16**: Continue to play with Bokeh, made slider (interactivity) worked, and made animation of world demand viz worked. A bit reading on command line in Python
 * **Week of 10/17 - 10/23**: Practice with writing a simple Python parser for excel to get event annotation. Made timeseries and interactivity worked. Started reading Python OOP articles
 * **Week of 10/24 - 10/30**: Simeon Franklin's OOP class - first part
-* **Week of 10/31 - 10/4**: Simeon Franklin's OOP class - second part (less useful)
+* **Week of 10/31 - 11/4**: Simeon Franklin's OOP class - second part (less useful)
+* **Week of 11/7 - 11/11**: BIDS video on OOP + Coursera's Introduction to DS in Python Class + Chris Albon's notes + Heroku Deployment of Airbnb-open-data-viz app
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
