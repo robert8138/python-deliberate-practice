@@ -184,6 +184,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Berkeley CS 88: Python Data Structure]:http://cs88-website.github.io/
 [Harvard CS 109: Data Science]:http://cs109.github.io/2015/
 [Berkeley BIDS Python bootcamp]:https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
+[Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
 [Python Computing For Data Science]:http://profjsb.github.io/python-seminar/
 [Writing Idiomatic Python - Jeff Knupp]:http://share.sm3.su/writing_idiomatic_python_3.pdf
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
