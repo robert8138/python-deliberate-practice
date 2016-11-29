@@ -31,6 +31,7 @@ I will give myself the whole 2016-Q4 to work on this goal. It seems like a long 
 * **Week of 10/31 - 11/4**: Simeon Franklin's OOP class - second part (less useful)
 * **Week of 11/7 - 11/11**: BIDS video on OOP + Coursera's Introduction to DS in Python Class + Chris Albon's notes + Heroku Deployment of Airbnb-open-data-viz app
 * **Week of 11/14 - 11/18**: (Half week) [Pandas Plotting Documentation] + BIDS: Scipy Pandas + Scientific Workflow in Python (both are marginally helpful)
+* **Week of 11/21 - 11/25**: (Half week) BIDS matplotlib review + Data School: writing pythonic code + Test Driven Development for Scientist blog post
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
 [Pandas Plotting Documentation]:http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html
