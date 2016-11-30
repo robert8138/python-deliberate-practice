@@ -66,9 +66,8 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * **iPython Notebook**
     
     * Just start writing all your practices as iPython notebooks
+    * [BIDS: Python Bootcamp: IPython Notebook]
     * [iPython Notebook Keybinding]
-    * Using the command history
-    * Interacting with the OS
 
 * **Pandas For Data Analysis**
 
@@ -79,6 +78,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
         * [More Pandas Questions Answered]
         * [Other resources]
     * [Tom Augspurgur: Pandas]
+    * [BIDS: Python Bootcamp: Scipy Pandas]
     * [Coursera: Introduction to Data Science in Python]: This course is basically about Pandas
 
     * Introduction to Numpy
@@ -96,17 +96,17 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Matplotlib For Data Visualization**
 
-    * [BIDS Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
+    * [BIDS: Python Bootcamp: Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
     * [Seaborn]: Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
     * [Bokeh]: Interactive, web browser base data visualization
     * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
 
 * **Writing Object Oriented Programming Python Code**
     
-    * [Jeff Knupp's OOP Post]
-    * Simeon Franklin's Twitter University Class
     * [Objected Oriented Programming For Scientist]
-    * [BIDS Python Bootcamp OOP section]
+    * [Jeff Knupp's OOP Post]
+    * [BIDS: Python Bootcamp: OOP]
+    * Simeon Franklin's Twitter University Class
 
 * **Writing Functional Programming Python Code**
     
@@ -119,11 +119,13 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [Scikit-learn Machine Learning Library]
     * Writing ETL Jobs
 
-* More Software Engineering Principles
+* **Testing Codes In Python**
     
-    * [Testing]
+    * [Four Tools For Testing Your Python Code]
     * [Testing For Scientist]
-    * [Automation And Make]
+    * [Improve Your Python: Understanding Unit Testing: Jeff Knupp]
+    * [BIDS: Python Bootcamp: Test Driven Development]
+    * [Software Carpentry: Testing]
 
 
 ## Reference
@@ -134,7 +136,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 * [Berkeley CS 88: Python Data Structure]
 * [Harvard CS 109: Data Science]
 * [Berkeley BIDS Python bootcamp]
-* [Python Computing For Data Science]
+* [Josh Bloom's Python Computing For Data Science]
 * [Writing Idiomatic Python - Jeff Knupp]
 * [Another tutorial on how to write pythonic code]
 * [Pandas Cookbook]
@@ -150,6 +152,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Columbia Data Scientist Style Guide]:http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
 
 [iPython Notebook Keybinding]:https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf
+[BIDS: Python Bootcamp: IPython Notebook]:https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9
 
 [Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
@@ -162,19 +165,24 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [More Pandas Questions Answered]:https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31
 [Other resources]:http://www.dataschool.io/best-python-pandas-resources/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
+[BIDS: Python Bootcamp: Scipy Pandas]:https://www.youtube.com/watch?v=bgIZAeNpL1U
 [Coursera: Introduction to Data Science in Python]:https://www.coursera.org/learn/python-data-analysis/home/welcome
-[Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
 
-[BIDS Intro to Matplotlib]:https://www.youtube.com/watch?v=j5P822TSCKs
+[BIDS: Python Bootcamp: Intro to Matplotlib]:https://www.youtube.com/watch?v=j5P822TSCKs
 [Seaborn]:https://stanford.edu/~mwaskom/software/seaborn/
 [Bokeh]:http://bokeh.pydata.org/en/latest/
 [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]:https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
 [Objected Oriented Programming For Scientist]:http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/
 [Jeff Knupp's OOP Post]:https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
-[BIDS Python Bootcamp OOP section]:https://www.youtube.com/watch?v=HQ0q6oMpOEs
+[BIDS: Python Bootcamp: OOP]:https://www.youtube.com/watch?v=HQ0q6oMpOEs
 
-[Testing]:http://katyhuff.github.io/python-testing/
+[Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
+
+[Software Carpentry: Testing]:http://katyhuff.github.io/python-testing/
+[BIDS: Python Bootcamp: Test Driven Development]:https://www.youtube.com/watch?v=hrj8Wo34nvw
+[Four Tools For Testing Your Python Code]:http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/
+[Improve Your Python: Understanding Unit Testing: Jeff Knupp]:https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
 [Testing For Scientist]:http://tjelvarolsson.com/blog/test-driven-develpment-for-scientists/
 [Automation And Make]:http://swcarpentry.github.io/make-novice/
 
@@ -185,7 +193,6 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Harvard CS 109: Data Science]:http://cs109.github.io/2015/
 [Berkeley BIDS Python bootcamp]:https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
 [Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
-[Python Computing For Data Science]:http://profjsb.github.io/python-seminar/
 [Writing Idiomatic Python - Jeff Knupp]:http://share.sm3.su/writing_idiomatic_python_3.pdf
 [Another tutorial on how to write pythonic code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
