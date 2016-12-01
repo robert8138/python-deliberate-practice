@@ -127,6 +127,13 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [BIDS: Python Bootcamp: Test Driven Development]
     * [Software Carpentry: Testing]
 
+* **Building Packages In Python (Next Year?)**
+
+    * [Using cookiecutter to set up a project]
+    * [Creating a clean Pytyon development environment]
+    * [How to generate beautiful technical documentation]
+    * [Five steps to add the bling factor your Python package]
+
 
 ## Reference
 
@@ -185,6 +192,12 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Improve Your Python: Understanding Unit Testing: Jeff Knupp]:https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/
 [Testing For Scientist]:http://tjelvarolsson.com/blog/test-driven-develpment-for-scientists/
 [Automation And Make]:http://swcarpentry.github.io/make-novice/
+
+[Using cookiecutter to set up a project]:http://tjelvarolsson.com/blog/using-cookiecutter-a-passive-code-generator/
+[Creating a clean Pytyon development environment]:http://tjelvarolsson.com/blog/begginers-guide-creating-clean-python-development-environments/
+[How to generate beautiful technical documentation]:http://tjelvarolsson.com/blog/how-to-generate-beautiful-technical-documentation/
+[Five steps to add the bling factor your Python package]:http://tjelvarolsson.com/blog/five-steps-to-add-the-bling-factor-to-your-python-package/
+
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
