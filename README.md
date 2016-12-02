@@ -78,15 +78,16 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
         * [More Pandas Questions Answered]
         * [Other resources]
     * [Tom Augspurgur: Pandas]
-    * [BIDS: Python Bootcamp: Scipy Pandas]
     * [Coursera: Introduction to Data Science in Python]: This course is basically about Pandas
 
     * Introduction to Numpy
+        * [BIDS: Python Bootcamp: Intro to Numpy]
         * creating ndarray, data type of ndarray
         * indexing and slicing: basic, boolean, fancy
         * element wise (vectorized) operations
     
     * Introduction to Pandas
+        * [BIDS: Python Bootcamp: Scipy Pandas]
         * DataFrame
         * Reading in Data into Dataframe
         * Indexing, Selection, Filtering, Sorting, Ranking
@@ -110,9 +111,10 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Writing Functional Programming Python Code**
     
-    * Simeon Franklin's Twitter University Class
-    * [What generators are for]
+    * [Yield & Generator Explained]
     * [Nate Batchelder: Loop like a native]
+    * [Simeon Franklin's higher order function]
+    * [BIDS: Python Bootcamp: Higher order functions]
 
 * **Other Parts Of Python Data Stacks** 
     
@@ -157,13 +159,15 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 [Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
 [Columbia Data Scientist Style Guide]:http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
+[Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 
 [iPython Notebook Keybinding]:https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf
 [BIDS: Python Bootcamp: IPython Notebook]:https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9
 
-[Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
-[What generators are for]:http://simeonfranklin.com/blog/2012/may/22/what-generators-are-for/
+[Yield & Generator Explained]:https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+[Simeon Franklin's higher order function]:http://simeonfranklin.com/blog/2013/jun/17/higher-order-functions-python/
+[BIDS: Python Bootcamp: Higher order functions]:https://www.youtube.com/watch?v=ob797BA49ZQ
 
 [Brandon Rhode's Pandas From The Groud Up]:https://www.youtube.com/watch?v=5JnMutdy6Fw
 [dplyr/pandas vignette comparison]:http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0
@@ -172,6 +176,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [More Pandas Questions Answered]:https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31
 [Other resources]:http://www.dataschool.io/best-python-pandas-resources/
 [Tom Augspurgur: Pandas]:https://www.youtube.com/watch?v=otCriSKVV_8
+[BIDS: Python Bootcamp: Intro to Numpy]:https://www.youtube.com/watch?v=PDOsOcG0m-Q
 [BIDS: Python Bootcamp: Scipy Pandas]:https://www.youtube.com/watch?v=bgIZAeNpL1U
 [Coursera: Introduction to Data Science in Python]:https://www.coursera.org/learn/python-data-analysis/home/welcome
 

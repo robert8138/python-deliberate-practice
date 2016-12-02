@@ -32,7 +32,7 @@ I will give myself the whole 2016-Q4 to work on this goal. It seems like a long 
 * **Week of 11/7 - 11/11**: BIDS video on OOP + Coursera's Introduction to DS in Python Class + Chris Albon's notes + Heroku Deployment of Airbnb-open-data-viz app
 * **Week of 11/14 - 11/18**: (Airbnb Open - Half week) Start building First Stage Model for LTV project in Python + [Pandas Plotting Documentation] + BIDS: Scipy Pandas + Scientific Workflow in Python (both are marginally helpful)
 * **Week of 11/21 - 11/25**: (Thanksgiving - Half week) On the Job learning for scikit-learn (pipeline, learning curve) + BIDS matplotlib review + Data School: writing pythonic code + Test Driven Development for Scientist blog post
-* **Week of 11/28 - 12/2**: BIDS Ipython notebook, BIDS functions/modules, BIDS testing driven development, Software Carpentry on Testing with Python
+* **Week of 11/28 - 12/2**: BIDS Ipython notebook, BIDS functions/modules, BIDS: advanced string, BIDS testing driven development, Jeff Knupp's Unit Testing, Software Carpentry on Testing with Python
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
 [Pandas Plotting Documentation]:http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html
