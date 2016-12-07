@@ -52,16 +52,19 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **[Build On Top of the Basics]: Writing Pythonic Code**
 
-    * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
-    * Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
-    * List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
-    * Strings: use .format, use .join
-    * Classes: use __ __ in function and variable name to mark private variables
-    * Generator: use generator to lazily load a infinite sequence
-    * Modules: writing modules for encapsulation
-    * Formatting: pep8 standards
-    * Executable script: __name__ = __main__
-    * Import: The right way to do imports
+    * Guidelines of Writing Pythonic Code
+        * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
+        * Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
+        * List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
+        * Strings: use .format, use .join
+        * Classes: use __ __ in function and variable name to mark private variables
+        * Generator: use generator to lazily load a infinite sequence
+        * Modules: writing modules for encapsulation
+        * Formatting: pep8 standards
+        * Executable script: __name__ = __main__
+        * Import: The right way to do imports
+    * [Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]
+    * [Nate Batchelder: Loop like a native]
 
 * **iPython Notebook**
     
@@ -107,19 +110,19 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [Objected Oriented Programming For Scientist]
     * [Jeff Knupp's OOP Post]
     * [BIDS: Python Bootcamp: OOP]
-    * Simeon Franklin's Twitter University Class
+    * Simeon Franklin's Twitter University Class (not available to the public)
 
 * **Writing Functional Programming Python Code**
     
-    * [Yield & Generator Explained]
-    * [Nate Batchelder: Loop like a native]
     * [Simeon Franklin's higher order function]
     * [BIDS: Python Bootcamp: Higher order functions]
-
-* **Other Parts Of Python Data Stacks** 
+    * [Improve Your Python: Jeff Knupp: Yield & Generator Explained]
+    * [Improve Your Python: Jeff Knupp: Decorator Explained]
     
-    * [Scikit-learn Machine Learning Library]
-    * Writing ETL Jobs
+* **[Scikit-learn Machine Learning Library]** 
+    
+    * [Scikit-learn metrics]
+    * [Scikit-learn Pipeline]
 
 * **Testing Codes In Python**
     
@@ -128,6 +131,12 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [Improve Your Python: Understanding Unit Testing: Jeff Knupp]
     * [BIDS: Python Bootcamp: Test Driven Development]
     * [Software Carpentry: Testing]
+
+* Logging
+    * https://pymotw.com/2/logging/index.html#module-logging
+    * http://docs.python-guide.org/en/latest/writing/logging/
+
+* Writing Command Line Tool
 
 * **Building Packages In Python (Next Year?)**
 
@@ -161,11 +170,14 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [Columbia Data Scientist Style Guide]:http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
 [Build On Top of the Basics]:http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 
+[Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]:https://www.jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
+
 [iPython Notebook Keybinding]:https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf
 [BIDS: Python Bootcamp: IPython Notebook]:https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9
 
 [Nate Batchelder: Loop like a native]:https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o
-[Yield & Generator Explained]:https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+[Improve Your Python: Jeff Knupp: Yield & Generator Explained]:https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
+[Improve Your Python: Jeff Knupp: Decorator Explained]:https://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
 [Simeon Franklin's higher order function]:http://simeonfranklin.com/blog/2013/jun/17/higher-order-functions-python/
 [BIDS: Python Bootcamp: Higher order functions]:https://www.youtube.com/watch?v=ob797BA49ZQ
 
@@ -190,6 +202,8 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [BIDS: Python Bootcamp: OOP]:https://www.youtube.com/watch?v=HQ0q6oMpOEs
 
 [Scikit-learn Machine Learning Library]:http://www.dataschool.io/machine-learning-with-scikit-learn/
+[Scikit-learn metrics]:http://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+[Scikit-learn Pipeline]:http://scikit-learn.org/stable/modules/classes.html#module-sklearn.pipeline
 
 [Software Carpentry: Testing]:http://katyhuff.github.io/python-testing/
 [BIDS: Python Bootcamp: Test Driven Development]:https://www.youtube.com/watch?v=hrj8Wo34nvw
@@ -203,6 +217,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 [How to generate beautiful technical documentation]:http://tjelvarolsson.com/blog/how-to-generate-beautiful-technical-documentation/
 [Five steps to add the bling factor your Python package]:http://tjelvarolsson.com/blog/five-steps-to-add-the-bling-factor-to-your-python-package/
 
+[Improve Your Python: Jeff Knupp: Context Manager]:https://www.jeffknupp.com/blog/2016/03/07/improve-your-python-the-with-statement-and-context-managers/
 
 [Python Tutor Visualizer]:http://www.pythontutor.com/visualize.html#mode=edit
 [Python For Data Analysis]:http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
