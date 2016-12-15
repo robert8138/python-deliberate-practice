@@ -34,6 +34,7 @@ I will give myself the whole 2016-Q4 to work on this goal. It seems like a long 
 * **Week of 11/21 - 11/25**: (Thanksgiving - Half week) On the Job learning for scikit-learn (pipeline, learning curve) + BIDS matplotlib review + Data School: writing pythonic code + Test Driven Development for Scientist blog post
 * **Week of 11/28 - 12/2**: BIDS Ipython notebook, BIDS functions/modules, BIDS: advanced string, BIDS testing driven development, Jeff Knupp's Unit Testing, Software Carpentry on Testing with Python
 * **Week of 12/5 - 12/9**: BIDS Numpy, BIDS Advanced Interaction, Simeon Franklin's higher order function, Jeff Knupp's "improve your python series": yield/generator, decorator, drastically improve python understanding of execution code, loop like a native (really good)
+* **Week of 12/12 - 12/16**: During the weekend (12/9), add more newer topics (logging, command-line tool, and building packages) for 2017. No active learning for this week, but wrap up by reviewing materials for a blog post
 
 [Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
 [Pandas Plotting Documentation]:http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html

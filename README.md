@@ -13,6 +13,8 @@ By now, I have a pretty good working knowledge of the R language. There are obvi
 
 To me, the appeal of Python is not necessarily the Data Analysis part, R is already doing a great job on this. Rather, the appeal of using Python for data work is that you have a higher chance to see how data plays a role within the whole integrated technology stack. Knowing Python is likely to make me a better **end-to-end** Data Scientist and better Software Engineer.
 
+Here is a great [reddit answer] that explains the intersection and disjoint union of the two languages beautifully.
+
 ## Deliberate Practice
 
 I am a huge believer in learning by doing, and there are a lot of opportunities on the job where I can hone my Python skills through Deliberate Practice:
@@ -166,6 +168,7 @@ Once mastered all the above, the next natural step is to create public work that
 [Teach Yourself Programming in 10 years]:http://norvig.com/21-days.html
 [Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
 
+[reddit answer]:https://www.reddit.com/r/Python/comments/2tkkxd/considering_putting_my_efforts_into_python/
 [Language war]:http://www.dataschool.io/python-or-r-for-data-science/
 [advanced R materials]:http://adv-r.had.co.nz/
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
