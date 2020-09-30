@@ -1,8 +1,8 @@
-# Python Deliberate Practice
+# Python Deliberate Practice:
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
-## Motivation
+## Motivation:
 
 [Language war] between Python and R is one of the most frequently discussed topics among the Data Scientists, and there doesn't seem to be a consensus on which one is better. Personally, I used both R and Python, but for very different purposes. I mainly use tidyverse packages (dplyr + ggplot2) to carry out data analyses and data visualization, while using Python for web scraping, task automations, and building [basic web applications in Flask]. 
 
@@ -15,7 +15,7 @@ To me, the appeal of Python is not necessarily the Data Analysis part, R is alre
 
 Here is a great [reddit answer] that explains the intersection and disjoint union of the two languages beautifully.
 
-## Deliberate Practice
+## Deliberate Practice:
 
 I am a huge believer in learning by doing, and there are a lot of opportunities on the job where I can hone my Python skills through Deliberate Practice:
 
@@ -33,14 +33,14 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Immediate Feedbacks**: We have a culture of code reviews, both for IC work as well as internal package work. The former is harder because most DS on our team are in the R camp. There's also the weekly Python office hours that should be very useful. Find constant opportunities to get feedback as much as you can.
 
-## Performance Goals
+## Important Performance Goals:
 
 * **[Immediate]** Learn to write pythonic code
 * **[Shorter term, easiest to practice]** Write re-usable, modular, tested code for my data work and knowledge posts
 * **[Medium term, harder to practice]** Achieve efficiency and feature parity on Data Analysis using Python compared to R
 * **[Longer term, hardest to practice]** Write tools. Being able to work on projects that span the entire data stack using Python, apply good software engineering principles to these projects
 
-## Project Goals
+## Project Goals:
 
 * **Outcome**: I want to move my data stack to Python completely. This means my day-to-day data analysis work will be done in Python instead of R, make my code as pythonic as possible. Become a Contributor to Airpy / tools, and take on one bigger Python project (ML, Data Viz ...etc).
 
@@ -48,7 +48,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Timeframe**: Efficiency parity by end of October. One contribution to Airpy by Mid November. One ongoing big project touching different stacks in Python by the end of 2016.
 
-## Project Milestones
+## Project Milestones:
 
 * **Learning Python & Best Practices**
     * [Build On Top of the Basics: Python Progression]
@@ -84,7 +84,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
         * [BIDS: Python Bootcamp: Intro to Numpy]
         * [Stanford ICME 193: Scientific Python]
     
-    * Introduction to Pandas
+    * Introduction to Pandas:
         * [Dplyr/pandas Vignette Comparison]
         * [Data School Pandas Tutorials]
             * [Data School Pandas Github iPython notebook]
