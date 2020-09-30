@@ -1,4 +1,4 @@
-## Python Deliberate Practice
+## Python Deliberate Practices
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
@@ -15,7 +15,7 @@ To me, the appeal of Python is not necessarily the Data Analysis part, R is alre
 
 Here is a great [reddit answer] that explains the intersection and disjoint union of the two languages beautifully.
 
-## Deliberate Practice
+## Deliberate Practices
 
 I am a huge believer in learning by doing, and there are a lot of opportunities on the job where I can hone my Python skills through Deliberate Practice:
 
