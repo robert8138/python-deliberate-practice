@@ -1,4 +1,4 @@
-# Python Deliberate Practice
+## Python Deliberate Practice
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
