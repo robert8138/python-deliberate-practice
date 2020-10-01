@@ -249,3 +249,5 @@ Once mastered all the above, the next natural step is to create public work that
 [Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
+
+Thank you so much for reading this till now and hope it helps!
