@@ -2,7 +2,7 @@
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
-## Motivation
+## An Amazing Motivation
 
 [Language war] between Python and R is one of the most frequently discussed topics among the Data Scientists, and there doesn't seem to be a consensus on which one is better. Personally, I used both R and Python, but for very different purposes. I mainly use tidyverse packages (dplyr + ggplot2) to carry out data analyses and data visualization, while using Python for web scraping, task automations, and building [basic web applications in Flask]. 
 
