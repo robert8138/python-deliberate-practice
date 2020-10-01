@@ -2,7 +2,7 @@
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
-## Motivation
+## Motivation to learn
 
 [Language war] between Python and R is one of the most frequently discussed topics among the Data Scientists, and there doesn't seem to be a consensus on which one is better. Personally, I used both R and Python, but for very different purposes. I mainly use tidyverse packages (dplyr + ggplot2) to carry out data analyses and data visualization, while using Python for web scraping, task automations, and building [basic web applications in Flask]. 
 
@@ -95,6 +95,14 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
         * [BIDS: Python Bootcamp: Scipy Pandas]
         * [Coursera: Introduction to Data Science in Python]
         * [Chris Albon's notes]
+        
+  * **Numpy library**
+      * NumPy is a python library used for working with arrays.
+      * It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+      * NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
+      * NumPy stands for Numerical Python.
+
+
 
 * **Data Visualization**
 
