@@ -1,4 +1,4 @@
-> ⚠️ **Note:** This repository contains outdated material.  
+> ⚠️ **Note as of 2025-04-13:** This repository contains outdated material.  
 > The so-called "language war" in data science has largely settled. While R remains a strong tool for statistical analysis, Python has surged in popularity and now dominates the ETL, machine learning, and AI space.  
 > 
 > I haven't updated this repository in years, and many of the links may be broken or no longer accessible. While the general learning progression for Python here might still be useful, there are far better and more up-to-date resources available:
