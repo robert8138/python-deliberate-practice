@@ -1,3 +1,14 @@
+> ⚠️ **Note:** This repository contains outdated material.  
+> The so-called "language war" in data science has largely settled. While R remains a strong tool for statistical analysis, Python has surged in popularity and now dominates the ETL, machine learning, and AI space.  
+> 
+> I haven't updated this repository in years, and many of the links may be broken or no longer accessible. While the general learning progression for Python here might still be useful, there are far better and more up-to-date resources available:
+>
+> - [Full Stack Python](https://www.fullstackpython.com/)
+> - [ArjanCodes on YouTube](https://www.youtube.com/arjancodes)
+> - [Real Python](https://realpython.com/)
+>
+> In the era of ChatGPT, I also recommend using it as a pair programmer to rapidly level up your Python skills.
+
 # Python Deliberate Practice
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
